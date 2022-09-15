@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32802.462
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelizationWithAFDemo", "ParallelizationWithAFDemo\ParallelizationWithAFDemo.csproj", "{93915A51-A1DA-4FCE-AA58-DCA73293475C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93915A51-A1DA-4FCE-AA58-DCA73293475C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93915A51-A1DA-4FCE-AA58-DCA73293475C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93915A51-A1DA-4FCE-AA58-DCA73293475C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93915A51-A1DA-4FCE-AA58-DCA73293475C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7D94300-D2A3-4B25-90D9-21335EAF1B79}
+	EndGlobalSection
+EndGlobal
